@@ -12,3 +12,4 @@
 17-hidethisword
 17-hidethisword
 17-hidethisword
+18-letteronly
